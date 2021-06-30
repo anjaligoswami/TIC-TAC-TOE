@@ -2,7 +2,7 @@
 
 > <h2> 👩🏻‍💻 Information</h2>
 
-<p> This is the Tic-Tac-Toe game which can be played by 2 players, This game is traditionally played on paper but i have tried to make a web application for that.</p>
+<p> This is a Tic-Tac-Toe game which can be played by 2 players, This game is traditionally played on paper but i have tried to make a web application for that.</p>
 
 <br>
 <hr>
