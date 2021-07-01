@@ -19,7 +19,7 @@
 <hr>
 <br>
 
-> <h2> ™ Game Panel</h2>
+> <h2>  Game Panel</h2>
 
 <div align="center">
 
