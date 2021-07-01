@@ -53,6 +53,6 @@
 <br>
 <hr>
 
-> <h2> 📲 Did you find the Bug ?</h2>
+> <h2> 📲 Did you find a Bug ?</h2>
 
 <p> <strong>Create the issues in issue section</strong> </p>
